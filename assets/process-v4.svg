@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Как работаю</title>
+  <desc id="desc">Четыре этапа: задача, дизайн, разработка и запуск.</desc>
+  <rect width="1200" height="240" fill="#080D12"/>
+  <g fill="#0D151C" stroke="#20343D" stroke-width="1.5">
+    <rect x="16" y="16" width="280" height="208" rx="16"/>
+    <rect x="312" y="16" width="280" height="208" rx="16"/>
+    <rect x="608" y="16" width="280" height="208" rx="16"/>
+    <rect x="904" y="16" width="280" height="208" rx="16"/>
+  </g>
+  <g fill="none" stroke="#39E2D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 120h8m-4-4 4 4-4 4"/>
+    <path d="M596 120h8m-4-4 4 4-4 4"/>
+    <path d="M892 120h8m-4-4 4 4-4 4"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#39E2D1" font-size="19" font-weight="600" letter-spacing="2">
+      <text x="36" y="50">01</text>
+      <text x="332" y="50">02</text>
+      <text x="628" y="50">03</text>
+      <text x="924" y="50">04</text>
+    </g>
+    <g fill="#EDF8FA" font-size="34" font-weight="700">
+      <text x="36" y="99">Задача</text>
+      <text x="332" y="99">Дизайн</text>
+      <text x="628" y="99">Разработка</text>
+      <text x="924" y="99">Запуск</text>
+    </g>
+    <g fill="#B3C8D0" font-size="22" font-weight="400">
+      <text x="36" y="145">Обсуждаем цель</text>
+      <text x="36" y="177">и требования</text>
+      <text x="332" y="145">Проектируем структуру</text>
+      <text x="332" y="177">и интерфейс</text>
+      <text x="628" y="145">Создаём продукт</text>
+      <text x="628" y="177">и проверяем</text>
+      <text x="924" y="145">Публикуем</text>
+      <text x="924" y="177">и настраиваем</text>
+    </g>
+  </g>
+</svg>
