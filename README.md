@@ -23,28 +23,28 @@
 **Frontend**
 
 <p>
-  <img src="./assets/tech-typescript.png" alt="TypeScript" height="30" />
-  <img src="./assets/tech-javascript.png" alt="JavaScript" height="30" />
-  <img src="./assets/tech-react.png" alt="React" height="30" />
-  <img src="./assets/tech-nextjs.png" alt="Next.js" height="30" />
-  <img src="./assets/tech-tailwind.png" alt="Tailwind CSS" height="30" />
-  <img src="./assets/tech-gsap.png" alt="GSAP" height="30" />
+  <img src="./assets/tech-typescript.png?v=2" alt="TypeScript" height="30" />
+  <img src="./assets/tech-javascript.png?v=2" alt="JavaScript" height="30" />
+  <img src="./assets/tech-react.png?v=2" alt="React" height="30" />
+  <img src="./assets/tech-nextjs.png?v=2" alt="Next.js" height="30" />
+  <img src="./assets/tech-tailwind.png?v=2" alt="Tailwind CSS" height="30" />
+  <img src="./assets/tech-gsap.png?v=2" alt="GSAP" height="30" />
 </p>
 
 **Backend**
 
 <p>
-  <img src="./assets/tech-nodejs.png" alt="Node.js" height="30" />
-  <img src="./assets/tech-python.png" alt="Python" height="30" />
-  <img src="./assets/tech-java.png" alt="Java" height="30" />
+  <img src="./assets/tech-nodejs.png?v=2" alt="Node.js" height="30" />
+  <img src="./assets/tech-python.png?v=2" alt="Python" height="30" />
+  <img src="./assets/tech-java.png?v=2" alt="Java" height="30" />
 </p>
 
 **Infrastructure**
 
 <p>
-  <img src="./assets/tech-linux.png" alt="Linux" height="30" />
-  <img src="./assets/tech-nginx.png" alt="nginx" height="30" />
-  <img src="./assets/tech-docker.png" alt="Docker" height="30" />
+  <img src="./assets/tech-linux.png?v=2" alt="Linux" height="30" />
+  <img src="./assets/tech-nginx.png?v=2" alt="nginx" height="30" />
+  <img src="./assets/tech-docker.png?v=2" alt="Docker" height="30" />
 </p>
 
 <p align="center">
