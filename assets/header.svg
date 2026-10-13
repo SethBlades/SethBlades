@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">SethBlades</title><desc id="desc">Black and turquoise geometric banner. Web, Telegram, Backend.</desc>
+<rect width="1600" height="520" fill="#080F14"/>
+<path d="M1000 0H1600V520H850Z" fill="#0B171C"/>
+<g stroke="#10242B" fill="none"><path d="M920 0L570 520"/><path d="M1010 0L660 520"/><path d="M1100 0L750 520"/><path d="M1190 0L840 520"/><path d="M1280 0L930 520"/><path d="M1370 0L1020 520"/><path d="M1460 0L1110 520"/><path d="M1550 0L1200 520"/><path d="M1640 0L1290 520"/><path d="M972.45 65H1600"/><path d="M948.15 155H1600"/><path d="M923.85 245H1600"/><path d="M899.55 335H1600"/><path d="M875.25 425H1600"/><path d="M850.95 515H1600"/></g><path d="M72 72V448" stroke="#39DBC8" stroke-width="3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="102" y="92" font-size="15" letter-spacing="3" fill="#39DBC8">SETHBLADES / VIRYASOV STUDIO</text>
+<g font-size="112" font-weight="700" fill="#EEF8F7"><text x="98" y="240">SETH</text><text x="98" y="348">BLADES</text></g>
+<path d="M586 261H608L544 352H522Z" fill="#39DBC8"/>
+<text x="105" y="430" font-size="19" letter-spacing="3" fill="#8BA8AA">WEB / TELEGRAM / BACKEND</text>
+<text x="1000" y="475" font-size="11" letter-spacing="2.3" fill="#577B7D">CREATE / COMMIT / REPEAT</text></g>
+<path d="M955 90H1430M955 430H1430" stroke="#22414A"/><path d="M955 90V125M1430 395V430" stroke="#39DBC8" stroke-width="2"/>
+<g transform="translate(1115 137)" fill="#39DBC8"><path d="M20 0H244L215 43H81L42 99H-11Z"/><path d="M49 82H224L194 125H96L71 162H18Z"/><path d="M179 142H232L164 240H-60L-31 197H103Z"/></g></svg>
