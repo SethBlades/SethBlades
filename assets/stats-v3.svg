@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-labelledby="title desc">
+<title id="title">SethBlades — GitHub activity</title><desc id="desc">1 public repositories, 0 followers, 0 stars across public owner repositories, and 7 GitHub contributions during the calendar period.</desc>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39E2D1"/><stop offset="1" stop-color="#39E2D1" stop-opacity="0"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#173039" stroke-opacity=".17"/></pattern></defs>
+<rect x=".5" y=".5" width="999" height="225" rx="20" fill="#080D12" stroke="#20343D"/>
+<rect x="1" y="1" width="998" height="224" rx="20" fill="url(#grid)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<path d="M30 37h20" stroke="#39E2D1" stroke-width="3" stroke-linecap="round"/>
+<text x="60" y="42" font-size="12" font-weight="700" letter-spacing="2.4" fill="#819CA5">GITHUB / ACTIVITY</text>
+<text x="970" y="42" text-anchor="end" font-size="11" fill="#819CA5">UPDATED 2026-10-13</text>
+<rect x="30" y="64" width="223" height="130" rx="12" fill="#0D151C" stroke="#20343D"/>
+<text x="48" y="91" font-size="10" font-weight="600" letter-spacing="1.4" fill="#819CA5">PUBLIC REPOS</text>
+<text x="48" y="145" font-size="42" font-weight="700" letter-spacing="-1.8" fill="#39E2D1">1</text>
+<text x="48" y="172" font-size="11" fill="#819CA5">publicly visible projects</text>
+<rect x="269" y="64" width="223" height="130" rx="12" fill="#0D151C" stroke="#20343D"/>
+<text x="287" y="91" font-size="10" font-weight="600" letter-spacing="1.4" fill="#819CA5">FOLLOWERS</text>
+<text x="287" y="145" font-size="42" font-weight="700" letter-spacing="-1.8" fill="#39E2D1">0</text>
+<text x="287" y="172" font-size="11" fill="#819CA5">people following the work</text>
+<rect x="508" y="64" width="223" height="130" rx="12" fill="#0D151C" stroke="#20343D"/>
+<text x="526" y="91" font-size="10" font-weight="600" letter-spacing="1.4" fill="#819CA5">REPOSITORY STARS</text>
+<text x="526" y="145" font-size="42" font-weight="700" letter-spacing="-1.8" fill="#39E2D1">0</text>
+<text x="526" y="172" font-size="11" fill="#819CA5">across public owner repos</text>
+<rect x="747" y="64" width="223" height="130" rx="12" fill="#0D151C" stroke="#20343D"/>
+<text x="765" y="91" font-size="10" font-weight="600" letter-spacing="1.4" fill="#819CA5">CONTRIBUTIONS</text>
+<text x="765" y="145" font-size="42" font-weight="700" letter-spacing="-1.8" fill="#39E2D1">7</text>
+<text x="765" y="172" font-size="11" fill="#819CA5">GitHub calendar · 365 days</text>
+</g></svg>
