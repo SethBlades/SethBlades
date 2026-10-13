@@ -4,7 +4,7 @@
 
 <img align="right" src="./assets/code-lab-v3.gif" alt="Анимированная лаборатория: веб-разработка, Telegram и API" width="340" />
 
-### Привет, я SethBlades 👋
+### Привет, я Артём 👋
 
 **Сайты, Telegram-боты и бэкенд для бизнеса.**
 
@@ -16,7 +16,7 @@
 - 🗂️ Личные кабинеты и админки.
 - 🔗 Автоматизация рабочих процессов.
 
-**Разрабатываю в [студии Viryasov ↗](https://viryasov.com/)**
+**Основатель [студии Viryasov ↗](https://viryasov.com/)**
 
 <br clear="both" />
 
