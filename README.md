@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.png" alt="SethBlades — Web / Telegram / Backend" width="100%" />
+</p>
 
-<!--
-**SethBlades/SethBlades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Сайты, Telegram-боты и бэкенд для бизнеса.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Студия Viryasov ↗**](https://viryasov.com/)
+
+[Репозитории](https://github.com/SethBlades?tab=repositories) · [Активность](https://github.com/SethBlades?tab=overview)
+
+</div>
+
+### Чем занимаюсь
+
+- **Веб-разработка** — сайты и лендинги для бизнеса, личные кабинеты и админки.
+- **Telegram** — боты и Mini Apps.
+- **Бэкенд** — API, интеграции и автоматизация.
+
+### Технологии
+
+**Frontend**
+
+<p>
+  <img src="./assets/tech-typescript.png" alt="TypeScript" height="30" />
+  <img src="./assets/tech-javascript.png" alt="JavaScript" height="30" />
+  <img src="./assets/tech-react.png" alt="React" height="30" />
+  <img src="./assets/tech-nextjs.png" alt="Next.js" height="30" />
+  <img src="./assets/tech-tailwind.png" alt="Tailwind CSS" height="30" />
+  <img src="./assets/tech-gsap.png" alt="GSAP" height="30" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="./assets/tech-nodejs.png" alt="Node.js" height="30" />
+  <img src="./assets/tech-python.png" alt="Python" height="30" />
+  <img src="./assets/tech-java.png" alt="Java" height="30" />
+</p>
+
+**Infrastructure**
+
+<p>
+  <img src="./assets/tech-linux.png" alt="Linux" height="30" />
+  <img src="./assets/tech-nginx.png" alt="nginx" height="30" />
+  <img src="./assets/tech-docker.png" alt="Docker" height="30" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.png" alt="" width="100%" />
+</p>
+
+<p align="center"><sub>CREATE / COMMIT / REPEAT</sub></p>
